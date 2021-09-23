@@ -1,0 +1,24 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+  width: 100vw;
+}
+
+.App {
+  /* text-align: center; */
+}
+h1{
+  text-align: center;
+}
+searchBar{
+  width: 80vw;
+}
+#searchBar input{
+  width: 80vw
+}
+
+
